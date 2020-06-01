@@ -23,7 +23,7 @@ public class WebViewActivity extends AppCompatActivity {
 
         webView = (WebView) findViewById(R.id.webView1);
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl("con-x.github.io");
+        webView.loadUrl("https://calebchoi33.github.io/Con-X.github.io/");
 
     }
 
