@@ -23,7 +23,7 @@ public class WebViewActivity extends AppCompatActivity {
 
         webView = (WebView) findViewById(R.id.webView1);
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl("https://www.cdc.gov/covid-data-tracker/index.html");
+        webView.loadUrl("con-x.github.io");
 
     }
 
